@@ -1,7 +1,7 @@
 # sems_project22
 may semes project 22
 
-- clone the respositiry and open index with live server to play the game
+- clone the repository and open index with live server to play the game
 
 or
 
